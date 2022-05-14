@@ -1,9 +1,9 @@
-## Hi there 👋
 ![Header](https://github.com/SatProducts/.github/blob/main/assets/LOGO.svg)
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+##We are an international hosting company that, in addition to hosting, deals with open source products 👩‍💻
+## Languages ant tools
+![GO](https://img.shields.io/badge/-GO-090909?style=for-the-badge&logo=go)
+![PHP](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JetBrains](https://img.shields.io/badge/-JetBrains%20Products-090909?style=for-the-badge&logo=JetBrains&logoColor=#000000)
 
