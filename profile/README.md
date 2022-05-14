@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](https://github.com/SatProducts/.github/blob/main/assets/svgexport-120.svg)
+![Header](https://github.com/SatProducts/.github/blob/main/assets/LOGO.svg)
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
